@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Opening the browser]]>
+    </line>
+    <line>
+      <![CDATA[MAXIMIZING THE WINDOW]]>
+    </line>
+    <line>
+      <![CDATA[scrolling down]]>
+    </line>
+    <line>
+      <![CDATA[CLICK ON THE BOOKSTOREAPPLICATION PAGE]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-04-22T19:50:09 IST" name="Default Suite" finished-at="2021-04-22T19:50:16 IST" duration-ms="6694">
+    <groups>
+    </groups>
+    <test started-at="2021-04-22T19:50:09 IST" name="WileyTest1" finished-at="2021-04-22T19:50:16 IST" duration-ms="6694">
+      <class name="Tests.HomePageTest">
+        <test-method is-config="true" signature="beforesuit()[pri:0, instance:Tests.HomePageTest@49e202ad]" started-at="2021-04-22T19:50:06 IST" name="beforesuit" finished-at="2021-04-22T19:50:09 IST" duration-ms="2976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuit -->
+        <test-method signature="clickOnBookstore()[pri:0, instance:Tests.HomePageTest@49e202ad]" started-at="2021-04-22T19:50:09 IST" name="clickOnBookstore" finished-at="2021-04-22T19:50:16 IST" duration-ms="6646" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Opening the browser]]>
+            </line>
+            <line>
+              <![CDATA[MAXIMIZING THE WINDOW]]>
+            </line>
+            <line>
+              <![CDATA[scrolling down]]>
+            </line>
+            <line>
+              <![CDATA[CLICK ON THE BOOKSTOREAPPLICATION PAGE]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- clickOnBookstore -->
+        <test-method is-config="true" signature="aftersuit()[pri:0, instance:Tests.HomePageTest@49e202ad]" started-at="2021-04-22T19:50:16 IST" name="aftersuit" finished-at="2021-04-22T19:50:16 IST" duration-ms="345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuit -->
+      </class> <!-- Tests.HomePageTest -->
+    </test> <!-- WileyTest1 -->
+  </suite> <!-- Default Suite -->
+</testng-results>

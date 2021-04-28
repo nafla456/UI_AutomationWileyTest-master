@@ -1,0 +1,13 @@
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="WileyTest1(failed)">
+    <classes>
+      <class name="Tests.HomePageTest"/>
+      <class name="Tests.BookStoreApplicationPage"></class>
+
+        
+       <!-- Tests.DemoQaScreenshot -->
+    </classes>
+  </test> <!-- WileyTest1(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->
